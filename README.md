@@ -1,16 +1,38 @@
 ## Hi there 👋
 
-<!--
-**Rudrabhishekmaurya/Rudrabhishekmaurya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+# Hi 👋, I'm Rudra Maurya
 
-Here are some ideas to get you started:
+## 🚀 About Me
+- Full Stack Developer Learner
+- Learning React, Angular, Node.js and MySQL
+- Interested in Data Science & Machine Learning
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills
+
+### Frontend
+- HTML
+- CSS
+- JavaScript
+- TypeScript
+- React
+- Angular
+
+### Backend
+- Node.js
+- Express.js
+
+### Database
+- MySQL
+
+### Tools
+- Git
+- GitHub
+- VS Code
+
+## 🌱 Currently Learning
+- React
+- Full Stack Development
+- Data Science
+
+## 📫 Connect With Me
+- GitHub: ashcodeshub
