@@ -11,7 +11,7 @@ Hi There <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/
 </h2>
 
 <p align="center" style="font-size:18px;">
-I am an aspiring Full Stack Developer, Data Analyst, and Machine Learning enthusiast with a passion for building innovative web applications and solving real-world problems through technology.
+I am an aspiring Full Stack Developer enthusiast with a passion for building innovative web applications and solving real-world problems through technology.
 </p>
 
 ---
